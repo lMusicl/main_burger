@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-less": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-watch": "^5.0.1"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "hover.css": "^2.3.2",
+    "wowjs": "^1.1.3"
+  }
+}
